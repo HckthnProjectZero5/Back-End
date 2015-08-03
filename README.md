@@ -2,6 +2,14 @@
 
 Website: https://fierce-wave-2814.herokuapp.com/
 
+## About
+
+A Hackathon hosted by The Iron Yard and SolTech presented a challenge for our group to complete in 
+48 hours - design an angry birds type of game which instead of birds, our objective was to toss 
+developer consultants at business obstacles while keeping everything within budget. We called it 
+Beat Dat Budget! In collaboration with Front End and iOS developers, Rails team created an API for 
+them to connect.
+
 ## Table of Contents
 
 1. [Level Model](#level-model)
